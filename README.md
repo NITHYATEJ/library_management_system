@@ -24,27 +24,8 @@ The Library Management System is a basic software application designed to manage
 ### Prerequisites
 
 - Java Development Kit (JDK) 8 or higher
-- (If applicable, Database software, e.g., MySQL)
-- IDE for Java development (optional but recommended)
-
-### Steps
-
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/your-username/library-management-system.git
-    ```
-2. **Navigate to the project directory**:
-    ```sh
-    cd library-management-system
-    ```
-3. **Open the project in your preferred IDE**.
-4. **Compile and run the project**:
-    - If using an IDE, use the built-in run configurations.
-    - If using the command line:
-        ```sh
-        javac -d bin src/com/yourpackage/*.java
-        java -cp bin com.yourpackage.Main
-        ```
+- Database software MySQL)
+- NetBeans IDE
 
 ## Usage
 
